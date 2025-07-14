@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/gaayathri2007/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [2630-alternating-digit-sum](https://github.com/gaayathri2007/Leetcode/tree/master/2630-alternating-digit-sum) |
 ## Sorting
 |  |
 | ------- |
