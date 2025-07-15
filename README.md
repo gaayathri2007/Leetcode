@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/gaayathri2007/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaayathri2007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/gaayathri2007/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2481-strictly-palindromic-number](https://github.com/gaayathri2007/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/gaayathri2007/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/gaayathri2007/Leetcode/tree/master/0268-missing-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/gaayathri2007/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2481-strictly-palindromic-number](https://github.com/gaayathri2007/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2630-alternating-digit-sum](https://github.com/gaayathri2007/Leetcode/tree/master/2630-alternating-digit-sum) |
 ## Sorting
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/gaayathri2007/Leetcode/tree/master/0344-reverse-string) |
 | [3396-valid-word](https://github.com/gaayathri2007/Leetcode/tree/master/3396-valid-word) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/gaayathri2007/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
