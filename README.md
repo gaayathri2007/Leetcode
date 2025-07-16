@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/gaayathri2007/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaayathri2007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/gaayathri2007/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gaayathri2007/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/gaayathri2007/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/gaayathri2007/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/gaayathri2007/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/gaayathri2007/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/gaayathri2007/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gaayathri2007/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2630-alternating-digit-sum](https://github.com/gaayathri2007/Leetcode/tree/master/2630-alternating-digit-sum) |
 ## Sorting
 |  |
