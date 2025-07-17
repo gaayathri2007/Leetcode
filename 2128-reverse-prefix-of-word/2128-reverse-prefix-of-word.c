@@ -1,7 +1,8 @@
 char* reversePrefix(char* s, char ch) 
 {
 
-int n,i,f,j=0,c;
+int n,i,f,j=0;
+char c;
 
 n = strlen(s);
 
