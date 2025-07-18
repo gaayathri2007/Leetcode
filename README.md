@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/gaayathri2007/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gaayathri2007/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/gaayathri2007/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3321-type-of-triangle](https://github.com/gaayathri2007/Leetcode/tree/master/3321-type-of-triangle) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/gaayathri2007/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/gaayathri2007/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gaayathri2007/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2630-alternating-digit-sum](https://github.com/gaayathri2007/Leetcode/tree/master/2630-alternating-digit-sum) |
+| [3321-type-of-triangle](https://github.com/gaayathri2007/Leetcode/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gaayathri2007/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/gaayathri2007/Leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/gaayathri2007/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [3321-type-of-triangle](https://github.com/gaayathri2007/Leetcode/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
