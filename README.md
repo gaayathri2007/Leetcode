@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/gaayathri2007/Leetcode/tree/master/0953-reverse-only-letters) |
 | [2128-reverse-prefix-of-word](https://github.com/gaayathri2007/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3396-valid-word](https://github.com/gaayathri2007/Leetcode/tree/master/3396-valid-word) |
+| [3617-find-the-original-typed-string-i](https://github.com/gaayathri2007/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Brainteaser
 |  |
 | ------- |
