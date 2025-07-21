@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/gaayathri2007/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2442-number-of-arithmetic-triplets](https://github.com/gaayathri2007/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2507-number-of-common-factors](https://github.com/gaayathri2007/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/gaayathri2007/Leetcode/tree/master/0507-perfect-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/gaayathri2007/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/gaayathri2007/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2507-number-of-common-factors](https://github.com/gaayathri2007/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gaayathri2007/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2630-alternating-digit-sum](https://github.com/gaayathri2007/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [3321-type-of-triangle](https://github.com/gaayathri2007/Leetcode/tree/master/3321-type-of-triangle) |
@@ -133,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/gaayathri2007/Leetcode/tree/master/0258-add-digits) |
+| [2507-number-of-common-factors](https://github.com/gaayathri2007/Leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
