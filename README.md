@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gaayathri2007/Leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/gaayathri2007/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/gaayathri2007/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gaayathri2007/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaayathri2007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/gaayathri2007/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/gaayathri2007/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/gaayathri2007/Leetcode/tree/master/0507-perfect-number) |
 | [2083-three-divisors](https://github.com/gaayathri2007/Leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/gaayathri2007/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/gaayathri2007/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/gaayathri2007/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -140,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/gaayathri2007/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/gaayathri2007/Leetcode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/gaayathri2007/Leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
