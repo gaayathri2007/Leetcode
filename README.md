@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/gaayathri2007/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/gaayathri2007/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/gaayathri2007/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2058-concatenation-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gaayathri2007/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaayathri2007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/gaayathri2007/Leetcode/tree/master/0258-add-digits) |
+| [2058-concatenation-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gaayathri2007/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaayathri2007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/gaayathri2007/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
