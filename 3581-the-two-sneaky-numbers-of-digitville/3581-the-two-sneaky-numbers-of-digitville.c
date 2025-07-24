@@ -28,7 +28,7 @@ int* getSneakyNumbers(int* a, int n, int* returnSize)
         }
     }
 
-    *returnSize = k;
+    *returnSize = 2;
     return b;
 
 }
