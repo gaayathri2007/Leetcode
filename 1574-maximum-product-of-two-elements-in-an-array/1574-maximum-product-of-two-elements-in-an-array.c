@@ -1,32 +1,15 @@
 int maxProduct(int* a, int n) 
 {
-int big1,big2,i,j,c=0;
+int i,j,c;
 
-big1 = 0;
-for(i=0;i<n;i++)
-if(a[i] > big1)
-big1 = a[i];
-
-for(i=0;i<n;i++)
-if(a[i] == big1)
-c++;
-
-if(c > 1)
-big2 = big1;
-
-else
+for(i=0;i<n-1;i++)
+for(j=i+1;j<n;j++)
+if(a[i]>a[j])
 {
-for(i=0;i<n;i++)
-if(a[i] < big1)
-{
-big2 = a[i];
-break;
+c = a[i];
+a[i] = a[j];
+a[j] = c;
 }
 
-for(i=0;i<n;i++)
-if(a[i] > big2 && a[i] < big1)
-big2 = a[i];
-}
-
-return (big1-1)*(big2-1);
+return (a[n-1]-1)*(a[n-2]-1);
 }
