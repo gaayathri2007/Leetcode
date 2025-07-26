@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/gaayathri2007/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/gaayathri2007/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/gaayathri2007/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/gaayathri2007/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/gaayathri2007/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/gaayathri2007/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/gaayathri2007/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/gaayathri2007/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/gaayathri2007/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/gaayathri2007/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [3321-type-of-triangle](https://github.com/gaayathri2007/Leetcode/tree/master/3321-type-of-triangle) |
 | [3778-transform-array-by-parity](https://github.com/gaayathri2007/Leetcode/tree/master/3778-transform-array-by-parity) |
