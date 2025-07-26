@@ -1,18 +1,10 @@
 int commonFactors(int a, int b) 
 {
-  int c,d,i,count=0;
+    int i, c = 0;
 
-c =fmin(a,b);
-d =fmax(a,b);
+    for (i = 1; i <= 1000; i++)
+        if (a % i == 0 && b % i == 0)
+            c++;
 
-for(i=1;i<=c/2;i++)
-  {
-    if(c%i == 0 && d%i == 0)
-      count++; 
-  }
-  
-if(d % c == 0)
-  count++;
-
-return count;   
+    return c;
 }
