@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/gaayathri2007/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/gaayathri2007/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/gaayathri2007/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [2659-number-of-even-and-odd-bits](https://github.com/gaayathri2007/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 ## String
 |  |
 | ------- |
