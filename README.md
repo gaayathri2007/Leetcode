@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/gaayathri2007/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gaayathri2007/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/gaayathri2007/Leetcode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/gaayathri2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/gaayathri2007/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/gaayathri2007/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/gaayathri2007/Leetcode/tree/master/0953-reverse-only-letters) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/gaayathri2007/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/gaayathri2007/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/gaayathri2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gaayathri2007/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaayathri2007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/gaayathri2007/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/gaayathri2007/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/gaayathri2007/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/gaayathri2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/gaayathri2007/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/gaayathri2007/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gaayathri2007/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/gaayathri2007/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0844-backspace-string-compare](https://github.com/gaayathri2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/gaayathri2007/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Prefix Sum
 |  |
