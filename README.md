@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gaayathri2007/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/gaayathri2007/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/gaayathri2007/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/gaayathri2007/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3778-transform-array-by-parity](https://github.com/gaayathri2007/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/gaayathri2007/Leetcode/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/gaayathri2007/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/gaayathri2007/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/gaayathri2007/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Brainteaser
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/gaayathri2007/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/gaayathri2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/gaayathri2007/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/gaayathri2007/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Prefix Sum
 |  |
 | ------- |
