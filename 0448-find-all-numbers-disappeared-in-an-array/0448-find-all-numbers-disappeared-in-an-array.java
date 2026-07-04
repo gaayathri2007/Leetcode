@@ -1,16 +1,23 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
+
         List<Integer> ans=new ArrayList<>();
-        Set<Integer> s = new TreeSet<>();
-        
-       int n = nums.length;
-       for(int i=0; i< n; i++)
-          s.add(nums[i]);
-        
-       for(int i=1; i<=n; i++)
-         if(!s.contains(i))
-           ans.add(i);
+        int N=nums.length;
+        for(int i=0;i<N;i++)
+        {
+            int ind=Math.abs(nums[i])-1;
+
+            if(nums[ind]>0)
+                nums[ind]=-nums[ind];
+        }
+
+        for(int i=0;i<N;i++)
+        {
+            if(nums[i]>0)
+                ans.add(i+1);
+        }
 
         return ans;
+        
     }
 }
