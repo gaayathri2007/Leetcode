@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gaayathri2007/Leetcode/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/gaayathri2007/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/gaayathri2007/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/gaayathri2007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gaayathri2007/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gaayathri2007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/gaayathri2007/Leetcode/tree/master/0645-set-mismatch) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gaayathri2007/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/gaayathri2007/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gaayathri2007/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/gaayathri2007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/gaayathri2007/Leetcode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/gaayathri2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/gaayathri2007/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gaayathri2007/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gaayathri2007/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/gaayathri2007/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/gaayathri2007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/gaayathri2007/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/gaayathri2007/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/gaayathri2007/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/gaayathri2007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/gaayathri2007/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/gaayathri2007/Leetcode/tree/master/0645-set-mismatch) |
 | [2659-number-of-even-and-odd-bits](https://github.com/gaayathri2007/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
