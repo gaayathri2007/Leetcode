@@ -28,7 +28,7 @@ class Solution {
           num = s2;
 
 
-        for(i=1; i<=num; i++)
+        for(i=1; i<=num/2; i++)
         if(s1 % i == 0 && s2 % i == 0)
         gcd = i;
 
