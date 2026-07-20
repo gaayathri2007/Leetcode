@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/gaayathri2007/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gaayathri2007/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/gaayathri2007/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/gaayathri2007/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/gaayathri2007/Leetcode/tree/master/2974-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/gaayathri2007/Leetcode/tree/master/3321-type-of-triangle) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/gaayathri2007/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/gaayathri2007/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gaayathri2007/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/gaayathri2007/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2942-find-words-containing-character](https://github.com/gaayathri2007/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3396-valid-word](https://github.com/gaayathri2007/Leetcode/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/gaayathri2007/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/gaayathri2007/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
