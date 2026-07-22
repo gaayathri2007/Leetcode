@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gaayathri2007/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2239-find-closest-number-to-zero](https://github.com/gaayathri2007/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gaayathri2007/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaayathri2007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/gaayathri2007/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
