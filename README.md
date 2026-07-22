@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/gaayathri2007/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2442-number-of-arithmetic-triplets](https://github.com/gaayathri2007/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gaayathri2007/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2574-left-and-right-sum-differences](https://github.com/gaayathri2007/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/gaayathri2007/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/gaayathri2007/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/gaayathri2007/Leetcode/tree/master/2974-minimum-number-game) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/gaayathri2007/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/gaayathri2007/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Number Theory
 |  |
 | ------- |
