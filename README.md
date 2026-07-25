@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/gaayathri2007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/gaayathri2007/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2974-minimum-number-game](https://github.com/gaayathri2007/Leetcode/tree/master/2974-minimum-number-game) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/gaayathri2007/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gaayathri2007/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/gaayathri2007/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2942-find-words-containing-character](https://github.com/gaayathri2007/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/gaayathri2007/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3396-valid-word](https://github.com/gaayathri2007/Leetcode/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/gaayathri2007/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/gaayathri2007/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
