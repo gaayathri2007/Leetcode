@@ -9,9 +9,8 @@ class Solution {
             m = m / 10;
         }
         l.sort((a,b)->Integer.compare(b,a));
-        System.out.println(l);
-        int  b1 = l.getFirst();
-        l.remove(l.getFirst());
+        int b1 = l.getFirst();
+        l.remove((Integer)b1);
         int b2 = l.getFirst();
 
         return b1*b2;
