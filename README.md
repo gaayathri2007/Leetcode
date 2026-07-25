@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/gaayathri2007/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/gaayathri2007/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/gaayathri2007/Leetcode/tree/master/2974-minimum-number-game) |
+| [3151-special-array-i](https://github.com/gaayathri2007/Leetcode/tree/master/3151-special-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gaayathri2007/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/gaayathri2007/Leetcode/tree/master/3321-type-of-triangle) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/gaayathri2007/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
