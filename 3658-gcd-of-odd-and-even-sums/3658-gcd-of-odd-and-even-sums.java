@@ -4,7 +4,7 @@ class Solution {
         int se = n*(n+1);
         int so = n*n;
 
-        if(se <= so)
+        if(se <= so)  // int num = Math.min(se,so);
         num = se;
         else
         num = so;
