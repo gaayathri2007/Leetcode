@@ -31,7 +31,7 @@ class Solution {
         else if(nums[i] < ss)
         ss = nums[i];
        }
-      // System.out.println(fb+"\t"+sb+"\t"+tb+"\t"+fs+"\t"+ss);
+       System.out.println(fb+"\t"+sb+"\t"+tb+"\t"+fs+"\t"+ss);
        return Math.max(tb*sb*fb,fb*fs*ss);
     }
 }
