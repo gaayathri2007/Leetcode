@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/gaayathri2007/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaayathri2007/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/gaayathri2007/Leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/gaayathri2007/Leetcode/tree/master/0704-binary-search) |
 | [0932-monotonic-array](https://github.com/gaayathri2007/Leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/gaayathri2007/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/gaayathri2007/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gaayathri2007/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/gaayathri2007/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gaayathri2007/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/gaayathri2007/Leetcode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gaayathri2007/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
