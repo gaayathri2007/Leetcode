@@ -3,6 +3,7 @@ class Solution {
         // int N = nums.length;
         // Arrays.sort(nums);
         // return((nums[N-1]-1) * (nums[N-2]-1));
+        
         //int N = nums.length;
         int max = 0 , smax = 0;
         for(int i=0; i<nums.length; i++){
