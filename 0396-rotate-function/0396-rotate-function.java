@@ -2,14 +2,13 @@ class Solution {
     public int maxRotateFunction(int[] nums) {
         int N = nums.length;
         int li = N-1;
-        long s = 0, max = 0, val = 0;
+        long s=0, val=0, max=0;
 
         for(int i=0; i<N; i++){
             s += nums[i];
-            val += nums[i]*i;
+            val += nums[i] * i;
         }
         max = val;
-        System.out.println(s+"\t"+val);
 
         for(int i=0; i<N; i++){
             val = val - (nums[li] * (N-1)) + (s-nums[li]);
