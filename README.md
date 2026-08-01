@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/gaayathri2007/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/gaayathri2007/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/gaayathri2007/Leetcode/tree/master/0953-reverse-only-letters) |
+| [1143-longest-common-subsequence](https://github.com/gaayathri2007/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/gaayathri2007/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gaayathri2007/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/gaayathri2007/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0396-rotate-function](https://github.com/gaayathri2007/Leetcode/tree/master/0396-rotate-function) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gaayathri2007/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1143-longest-common-subsequence](https://github.com/gaayathri2007/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
