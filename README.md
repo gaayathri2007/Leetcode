@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/gaayathri2007/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/gaayathri2007/Leetcode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gaayathri2007/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0877-stone-game](https://github.com/gaayathri2007/Leetcode/tree/master/0877-stone-game) |
 | [0932-monotonic-array](https://github.com/gaayathri2007/Leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/gaayathri2007/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/gaayathri2007/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/gaayathri2007/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/gaayathri2007/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaayathri2007/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/gaayathri2007/Leetcode/tree/master/0877-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/gaayathri2007/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gaayathri2007/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2083-three-divisors](https://github.com/gaayathri2007/Leetcode/tree/master/2083-three-divisors) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/gaayathri2007/Leetcode/tree/master/0396-rotate-function) |
 | [0583-delete-operation-for-two-strings](https://github.com/gaayathri2007/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gaayathri2007/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0877-stone-game](https://github.com/gaayathri2007/Leetcode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/gaayathri2007/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -356,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gaayathri2007/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gaayathri2007/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
