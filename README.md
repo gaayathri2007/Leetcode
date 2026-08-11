@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/gaayathri2007/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/gaayathri2007/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/gaayathri2007/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/gaayathri2007/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gaayathri2007/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -371,4 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gaayathri2007/Leetcode/tree/master/0877-stone-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/gaayathri2007/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+## Matrix
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/gaayathri2007/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
