@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/gaayathri2007/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/gaayathri2007/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/gaayathri2007/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/gaayathri2007/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2058-concatenation-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gaayathri2007/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gaayathri2007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/gaayathri2007/Leetcode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/gaayathri2007/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/gaayathri2007/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gaayathri2007/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
@@ -376,8 +378,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/gaayathri2007/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/gaayathri2007/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
 | ------- |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/gaayathri2007/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/gaayathri2007/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Depth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/gaayathri2007/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Union-Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/gaayathri2007/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
