@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/gaayathri2007/Leetcode/tree/master/0877-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/gaayathri2007/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gaayathri2007/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/gaayathri2007/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2083-three-divisors](https://github.com/gaayathri2007/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/gaayathri2007/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/gaayathri2007/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gaayathri2007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/gaayathri2007/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/gaayathri2007/Leetcode/tree/master/0645-set-mismatch) |
+| [1486-xor-operation-in-an-array](https://github.com/gaayathri2007/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2659-number-of-even-and-odd-bits](https://github.com/gaayathri2007/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 ## String
 |  |
