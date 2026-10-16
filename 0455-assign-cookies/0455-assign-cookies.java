@@ -1,6 +1,6 @@
-class Solution {
+class Solution { 
     public int findContentChildren(int[] g, int[] s) {
-        Arrays.sort(g);
+        // Arrays.sort(g);
         Arrays.sort(s);
         int gl = g.length;
         int sl = s.length;
